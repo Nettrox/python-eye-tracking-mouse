@@ -7,4 +7,3 @@ pip install pyautogui
 sudo apt-get install v4l-utils
 v4l2-ctl --list-devices
 listed all cameras indexes
-nettrox@nettrox-ROG-Strix-G
